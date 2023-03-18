@@ -26,5 +26,4 @@
 <br>
 <br>
 
-![snake-gif]
-(https://github.com/LuisGuilhermeSouzaM/LuisGuilhermeSouzaM/blob/output/github-contribution-grid-snake.gif)
+![snake-gif](https://github.com/LuisGuilhermeSouzaM/LuisGuilhermeSouzaM/blob/output/github-contribution-grid-snake.gif)
