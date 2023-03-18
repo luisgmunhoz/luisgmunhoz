@@ -22,3 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisguilhermesouzam&show_icons=true&locale=en" alt="luisguilhermesouzam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisguilhermesouzam&" alt="luisguilhermesouzam" /></p>
+
+<br>
+<br>
+
+![snake-gif]
+(https://github.com/LuisGuilhermeSouzaM/LuisGuilhermeSouzaM/blob/output/github-contribution-grid-snake.gif)
