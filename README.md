@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisguilhermesouzam" alt="luisgmunhoz" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando **no CodeChella da semana 06 do alura challenges de front-end**: <a href="https://github.com/LuisGuilhermeSouzaM/code-chella">https://github.com/luisgmunhoz/code-chella</a>
+- 🔭 Atualmente estou trabalhando **no CodeChella da semana 06 do alura challenges de front-end**: <a href="https://github.com/luisgmunhoz/code-chella">https://github.com/luisgmunhoz/code-chella</a>
 
 - 🌱 Atualmente estou estudando **Scrum**
 
