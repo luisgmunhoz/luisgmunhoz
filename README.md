@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando **no CodeChella da semana 06 do alura challenges de front-end**: <a href="https://github.com/luisgmunhoz/code-chella">https://github.com/luisgmunhoz/code-chella</a>
 
-- 🌱 Atualmente estou estudando **Scrum**
+- 🌱 Atualmente estou estudando **Next.js**
 
 - Meu portfólio: <a href="https://luismunhoz.com">luismunhoz.com</a>
 
