@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisgmunhoz" alt="luisgmunhoz" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando **em um projeto de site com diversos chatbots implementados nele**: <a href="https://github.com/luisgmunhoz/code-chella">https://github.com/Chatterson/chatterson</a>
-
-- 🌱 Atualmente estou estudando **Next.js**
+- 🌱 Atualmente estou estudando **Rust**
 
 - Meu portfólio: <a href="https://luismunhoz.com">luismunhoz.com</a>
 
