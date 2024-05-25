@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **Rust**
 
-- Meu portfólio: <a href="https://luismunhoz.com">luismunhoz.com</a>
+- <a href="https://luismunhoz.vercel.app">Meu portfólio</a>
 
 - 📫Contato: **luisguilherme.sm@hotmail.com**
 
